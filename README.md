@@ -16,7 +16,7 @@ A curated list of awesome frameworks, libraries and resources for [Furo](https:/
 
 - Javascript/Typescript
   - [furo-sdk-ts]() - Official Typescirpt SDK for Furo
-  - [furo-sdk-react]() - Official React SDK for Furo
+  - [furo-sdk-react](https://github.com/lukasjhan/furo-sdk-react) - Official React SDK for Furo
   - [furo-sdk-svelte]() - Official Svelte SDK for Furo
   - [furo-sdk-vue]() - Official Vue SDK for Furo
   - [furo-sdk-Next]() - Official Next.js SDK for Furo
