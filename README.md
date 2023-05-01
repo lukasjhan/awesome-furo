@@ -36,7 +36,7 @@ A curated list of awesome frameworks, libraries and resources for [Furo](https:/
 ## Samples
 
 - Javascript/Typescript
-  - [furo-sample-react]() - Sample React Code for Furo
+  - [furo-sample-react](https://github.com/lukasjhan/furo-sample-react) - Sample React Code for Furo
   - [furo-sample-svelte]() - Sample Svelte Code for Furo
   - [furo-sample-vue]() - Sample Vue Code for Furo
   - [furo-sample-Next]() - Sample Next.js Code for Furo
