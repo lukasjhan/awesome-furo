@@ -32,6 +32,8 @@ A curated list of awesome frameworks, libraries and resources for [Furo](https:/
   - [furo-sdk-kt]() - Official Kotlin SDK for Furo
 - Swift
   - [furo-sdk-swift]() - Official Swift SDK for Furo
+- Dart
+  - [furo-sdk-dart]() - Official Swift SDK for Furo
 
 ## Samples
 
@@ -54,5 +56,7 @@ A curated list of awesome frameworks, libraries and resources for [Furo](https:/
   - [furo-sample-kotlin]() - Sample Kotlin Code for Furo
 - Swift
   - [furo-sample-swift]() - Sample Swift Code for Furo
+- Flutter
+  - [furo-sample-flutter]() - Sample Swift Code for Furo
 - AWS Lambda
   - [furo-sample-lambda]() - Sample AWS Lambda custom authorizer using Furo
