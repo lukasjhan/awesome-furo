@@ -6,6 +6,8 @@
 
 A curated list of awesome frameworks, libraries and resources for [Furo](https://furo.one).
 
+See Furo's Offical Docs [here](https://docs.furo.one).
+
 [Furo](https://furo.one) is an IDaaS (Identity-as-a-Service) that provides a secure and easy-to-use login service. With Furo, you can quickly and easily add authentication and authorization to your applications, without the need for complex setup or maintenance.
 
 - [Awesome Furo](#awesome-furo)
