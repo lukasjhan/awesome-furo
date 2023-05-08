@@ -19,9 +19,6 @@ See Furo's Offical Docs [here](https://docs.furo.one).
 - Javascript/Typescript
   - [furo-sdk-ts](https://github.com/lukasjhan/furo-sdk-ts) - Official Typescirpt SDK for Furo
   - [furo-sdk-react](https://github.com/lukasjhan/furo-sdk-react) - Official React SDK for Furo
-  - [furo-sdk-svelte]() - Official Svelte SDK for Furo
-  - [furo-sdk-vue]() - Official Vue SDK for Furo
-  - [furo-sdk-Next]() - Official Next.js SDK for Furo
 - Python
   - [furo-sdk-py]() - Official Python SDK for Furo
 - Go
@@ -41,9 +38,7 @@ See Furo's Offical Docs [here](https://docs.furo.one).
 
 - Javascript/Typescript
   - [furo-sample-react](https://github.com/lukasjhan/furo-sample-react) - Sample React Code for Furo
-  - [furo-sample-svelte]() - Sample Svelte Code for Furo
-  - [furo-sample-vue]() - Sample Vue Code for Furo
-  - [furo-sample-Next]() - Sample Next.js Code for Furo
+  - [furo-sample-vue](https://github.com/lukasjhan/furo-sample-vue) - Sample Vue Code for Furo
   - [furo-sample-Express]() - Sample Express Code for Furo
   - [furo-sample-Nest]() - Sample Nest.js Code for Furo
 - Python
