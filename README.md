@@ -56,4 +56,4 @@ See Furo's Offical Docs [here](https://docs.furo.one).
 - Flutter
   - [furo-sample-flutter](https://github.com/lukasjhan/furo-sample-flutter) - Sample Swift Code for Furo
 - AWS Lambda
-  - [furo-sample-lambda]() - Sample AWS Lambda custom authorizer using Furo
+  - [furo-sample-lambda](https://github.com/lukasjhan/furo-sample-lambda-authorizer) - Sample AWS Lambda custom authorizer using Furo
