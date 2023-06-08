@@ -18,6 +18,7 @@ See Furo's Offical Docs [here](https://docs.furo.one).
 
 - Javascript/Typescript
   - [furo-sdk-ts](https://github.com/lukasjhan/furo-sdk-ts) - Official Typescirpt SDK for Furo
+  - [furo-sdk-purejs](https://github.com/lukasjhan/furo-sdk-purejs) - Pure Javascript SDK for Furo
   - [furo-sdk-react](https://github.com/lukasjhan/furo-sdk-react) - Official React SDK for Furo
 - Python
   - [furo-sdk-py]() - Official Python SDK for Furo
