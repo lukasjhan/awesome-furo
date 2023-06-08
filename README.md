@@ -41,7 +41,7 @@ See Furo's Offical Docs [here](https://docs.furo.one).
   - [furo-sample-react](https://github.com/lukasjhan/furo-sample-react) - Sample React Code for Furo
   - [furo-sample-vue](https://github.com/lukasjhan/furo-sample-vue) - Sample Vue Code for Furo
   - [furo-sample-Express]() - Sample Express Code for Furo
-  - [furo-sample-Nest]() - Sample Nest.js Code for Furo
+  - [furo-sample-Nest](https://github.com/lukasjhan/furo-sample-nextjs) - Sample Nest.js Code for Furo
 - Python
   - [furo-sample-django]() - Sample django Code for Furo
 - Go
